@@ -1,6 +1,5 @@
 import streamlit as st
 import numpy as np
-import tensorflow
 import pickle
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.sequences import pad_sequences
